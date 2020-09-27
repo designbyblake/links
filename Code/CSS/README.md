@@ -1,0 +1,12 @@
+# CSS
+
+## Prefers Reduced Motion
+
+```CSS
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation: none !important;
+    transition: none !important;
+  }
+}
+```

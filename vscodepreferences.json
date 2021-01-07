@@ -1,0 +1,55 @@
+{
+	"sublimeTextKeymap.promptV3Features": true,
+	"editor.multiCursorModifier": "ctrlCmd",
+	"editor.snippetSuggestions": "top",
+	"editor.formatOnPaste": true,
+	"window.zoomLevel": 2,
+	"editor.formatOnSave": true,
+	"prettier.eslintIntegration": true,
+	"files.trimTrailingWhitespace": true,
+	"editor.insertSpaces": false,
+	"editor.detectIndentation": false,
+	"editor.renderWhitespace": "all",
+	"files.associations": {
+		"*.js": "javascriptreact",
+		// "*.html": "twig",
+	},
+	"emmet.syntaxProfiles": {
+		"javascript": "jsx",
+	},
+	// "emmet.includeLanguages": {
+	// 	"html": "html"
+	// },
+	"gitlens.advanced.messages": {
+		"suppressShowKeyBindingsNotice": true
+	},
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"auto-close-tag.activationOnLanguage": [
+		"xml",
+		"php",
+		"blade",
+		"ejs",
+		"jinja",
+		"javascript",
+		"javascriptreact",
+		"typescript",
+		"typescriptreact",
+		"plaintext",
+		"markdown",
+		"vue",
+		"liquid",
+		"erb",
+		"lang-cfml",
+		"cfml",
+		"HTML (Eex)",
+		"twig"
+	],
+	"breadcrumbs.enabled": true,
+	"editor.tabCompletion": "on",
+	"diffEditor.renderSideBySide": false,
+	"beautify.ignore": "**/*.twig",
+	"vsicons.dontShowNewVersionMessage": true,
+	"gitlens.views.compare.files.layout": "list",
+	"files.autoSave": "off",
+	"explorer.autoReveal": false
+}

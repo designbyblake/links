@@ -11,15 +11,11 @@
 	"editor.detectIndentation": false,
 	"editor.renderWhitespace": "all",
 	"files.associations": {
-		"*.js": "javascriptreact",
-		// "*.html": "twig",
+		"*.js": "javascriptreact"
 	},
 	"emmet.syntaxProfiles": {
-		"javascript": "jsx",
+		"javascript": "jsx"
 	},
-	// "emmet.includeLanguages": {
-	// 	"html": "html"
-	// },
 	"gitlens.advanced.messages": {
 		"suppressShowKeyBindingsNotice": true
 	},
